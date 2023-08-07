@@ -459,7 +459,8 @@ Sergey Sukhanov| Ensemble learning based on several classifiers, including convo
 #### Cloud Services
 - Google Earth Engine
 - AWS
-- Updating
+- MPC
+- PIE
 #### Useful Library 
 - Updating
 
@@ -474,6 +475,7 @@ Sergey Sukhanov| Ensemble learning based on several classifiers, including convo
 -   [Indian Pines, Salinas, KSC et al.](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
 - [Sen1-2 Dataset](https://arxiv.org/abs/1807.01569)
 - [SEN12MS](https://arxiv.org/abs/1906.07789)
+- [MDAS](https://mediatum.ub.tum.de/1657312)
 ##  TERMS 
  *There are terms which are slightly different from those in other areas.*
 
