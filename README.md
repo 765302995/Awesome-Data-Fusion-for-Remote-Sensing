@@ -389,7 +389,7 @@ General image quality index|updating|spectral| Updating
 |Standard deviation |updating |spatial,temporal| Updating
 |Information entropy | updating|spatial,temporal| Updating
 |Mean gradient |updating|spatial,temporal| Updating
-
+### 3.A novel framework to assess all-round performances of spatiotemporal fusion models[Link]([http://www.grss-ieee.org/grss-webinars/](https://github.com/XZhu-lab/Fusion-accuracy-assessment))
 ## Community
 
 ### IEEE GRSS data fusion contest([Link](http://www.grss-ieee.org/grss-webinars/))
